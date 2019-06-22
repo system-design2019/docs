@@ -30,7 +30,7 @@
       - 8.1.2.6 [工程结构规范](https://java.timoney.xyz/gong-cheng-jie-gou)
   - 8.2 [REST API 设计规范](https://java.timoney.xyz/qi-restful-she-ji-gui-fan)
   - 8.3 [Arche](https://java.timoney.xyz/gong-cheng-jie-gou)(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
-  - 8.4 部署说明
+  - 8.4 [部署说明](https://blog.janking.cn/post/aliyun-stu-server.html#%E9%83%A8%E7%BD%B2%20SpringBoot)
 - 9、成品展示
   - 9.1 xx短视频
   - 9.2 xx短视频
