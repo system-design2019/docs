@@ -19,7 +19,6 @@
       - 7.3.1 [API文档](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
   - 7.4 [Architecture design](https://system-design2019.github.io/files/Architechture)(架构设计)
   - 7.5 [Usecase design]()(用例设计)
-  - 7.6 [这个没啥用，水就行了]()(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
 - 8、生产规范与指南
   - 8.1 代码规范
     - 8.1.1 [frontend]()(前端代码规范)
@@ -34,6 +33,7 @@
   - 8.3 部署说明
     - 8.3.1 [简单版](https://github.com/system-design2019/system-design/tree/master/backend#%E9%83%A8%E7%BD%B2%E7%8E%AF%E5%A2%83)
     - 8.3.2 [博客版](https://blog.janking.cn/post/aliyun-stu-server.html#%E9%83%A8%E7%BD%B2%20SpringBoot)
+  - 8.4 [BCE方法到应用程序框架映射指南](https://system-design2019.github.io/files/BCE)
 - 9、成品展示
   - 9.1 xx短视频
   - 9.2 xx短视频
