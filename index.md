@@ -9,17 +9,17 @@
   - 6.1 [Usecase Diagram and UML Activity Diagram](https://system-design2019.github.io/files/Usecase_total)(用例图，业务流程/多泳道图)
   - 6.2 [Use Cases](https://system-design2019.github.io/files/Usecases)(用例+活动图)
   - 6.3 [Domain Models](https://system-design2019.github.io/files/Domain)(领域模型)
-  - 6.4 [State Models](https://system-design2019.github.io/files/State)(状态模型)
-  - 6.5 [System Sequence Diagrams](https://system-design2019.github.io/files/Sequence)(功能模型)
-  - 6.5 [Supplementay Requirements](https://system-design2019.github.io/files/Requirements)(补充需求)
+  - 6.4 [State Models]()(状态模型)
+  - 6.5 [System Suquence Diagrams]()(功能模型)
+  - 6.5 [Supplementay Requirements]()(补充需求)
 - 7、Design
   - 7.1 [UI design]()(界面设计)
   - 7.2 [Database design]()(数据库设计)
   - 7.3 [Interface API design](https://system-design2019.github.io/files/Interface-API-Design)(接口API设计)
       - 7.3.1 [API文档](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
-  - 7.4 [Architecture design]()(架构设计)
+  - 7.4 [Architecture design](https://system-design2019.github.io/files/Architechture)(架构设计)
   - 7.5 [Usecase design]()(用例设计)
-  - 7.6 [工程结构]()(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
+  - 7.6 [这个没啥用，水就行了]()(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
 - 8、生产规范与指南
   - 8.1 代码规范
     - 8.1.1 [frontend]()(前端代码规范)
