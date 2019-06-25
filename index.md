@@ -9,17 +9,16 @@
   - 6.1 [Usecase Diagram and UML Activity Diagram](https://system-design2019.github.io/files/Usecase_total)(用例图，业务流程/多泳道图)
   - 6.2 [Use Cases](https://system-design2019.github.io/files/Usecases)(用例+活动图)
   - 6.3 [Domain Models](https://system-design2019.github.io/files/Domain)(领域模型)
-  - 6.4 [State Models](https://system-design2019.github.io/files/State)(状态模型)
-  - 6.5 [System Sequence Diagrams](https://system-design2019.github.io/files/Sequence)(功能模型)
-  - 6.5 [Supplementay Requirements](https://system-design2019.github.io/files/Requirements)(补充需求)
+  - 6.4 [State Models]()(状态模型)
+  - 6.5 [System Suquence Diagrams]()(功能模型)
+  - 6.5 [Supplementay Requirements]()(补充需求)
 - 7、Design
   - 7.1 [UI design]()(界面设计)
   - 7.2 [Database design](https://system-design2019.github.io/files/Database)(数据库设计)
   - 7.3 [Interface API design](https://system-design2019.github.io/files/Interface-API-Design)(接口API设计)
       - 7.3.1 [API文档](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
-  - 7.4 [Architecture design]()(架构设计)
+  - 7.4 [Architecture design](https://system-design2019.github.io/files/Architechture)(架构设计)
   - 7.5 [Usecase design]()(用例设计)
-  - 7.6 [工程结构]()(架构设计，详细设计（BCE方法）到应用程序框架映射指南)
 - 8、生产规范与指南
   - 8.1 代码规范
     - 8.1.1 [frontend]()(前端代码规范)
@@ -34,14 +33,19 @@
   - 8.3 部署说明
     - 8.3.1 [简单版](https://github.com/system-design2019/system-design/tree/master/backend#%E9%83%A8%E7%BD%B2%E7%8E%AF%E5%A2%83)
     - 8.3.2 [博客版](https://blog.janking.cn/post/aliyun-stu-server.html#%E9%83%A8%E7%BD%B2%20SpringBoot)
+  - 8.4 [BCE方法到应用程序框架映射指南](https://system-design2019.github.io/files/BCE)
 - 9、成品展示
   - 9.1 xx短视频
   - 9.2 xx短视频
 - X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
 - X2 [kanban]
 - X3 [auditing-records]
-- X4 [Tech/Work Report]
-- X5 [Final Report]
+- X4 Tech/Work Report(团队成果)
+  - [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
+  - [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
+  - [16340215-使用阿里云邮件推送服务发送验证码](https://blog.janking.cn/post/aliyun-email.html)
+- X5 Final Report(个人报告)
+  - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
