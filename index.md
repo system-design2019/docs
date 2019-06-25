@@ -18,7 +18,7 @@
   - 7.3 [Interface API design](https://system-design2019.github.io/files/Interface-API-Design)(接口API设计)
       - 7.3.1 [API文档](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
   - 7.4 [Architecture design](https://system-design2019.github.io/files/Architechture)(架构设计)
-  - 7.5 [Usecase design]()(用例设计)
+  - 7.5 [Usecase design](https://system-design2019.github.io/files/UsecasesDesign)(用例设计)
 - 8、生产规范与指南
   - 8.1 代码规范
     - 8.1.1 [前端规范](http://system-design2019.github.io/files/frontR)
@@ -40,7 +40,7 @@
   - 9.2 xx短视频
 - X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
 - X2 [kanban]
-- X3 [auditing-records]
+- X3 [auditing-records](https://system-design2019.github.io/files/auditing-records)
 - X4 Tech/Work Report(团队成果)
   - [16340215-CentOS升级或安装安装JDK 8](https://blog.janking.cn/post/centos-java8.html)
   - [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
