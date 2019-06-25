@@ -9,9 +9,9 @@
   - 6.1 [Usecase Diagram and UML Activity Diagram](https://system-design2019.github.io/files/Usecase_total)(用例图，业务流程/多泳道图)
   - 6.2 [Use Cases](https://system-design2019.github.io/files/Usecases)(用例+活动图)
   - 6.3 [Domain Models](https://system-design2019.github.io/files/Domain)(领域模型)
-  - 6.4 [State Models]()(状态模型)
-  - 6.5 [System Suquence Diagrams]()(功能模型)
-  - 6.5 [Supplementay Requirements]()(补充需求)
+  - 6.4 [State Models](https://system-design2019.github.io/files/State)(状态模型)
+  - 6.5 [System Suquence Diagrams](https://system-design2019.github.io/files/Sequence)(功能模型)
+  - 6.5 [Supplementay Requirements](https://system-design2019.github.io/files/Requirements)(补充需求)
 - 7、Design
   - 7.1 [UI design]()(界面设计)
   - 7.2 [Database design](https://system-design2019.github.io/files/Database)(数据库设计)
