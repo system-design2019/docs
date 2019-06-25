@@ -42,9 +42,12 @@
 - X2 [kanban]
 - X3 [auditing-records]
 - X4 Tech/Work Report(团队成果)
+  - [16340215-CentOS升级或安装安装JDK 8](https://blog.janking.cn/post/centos-java8.html)
   - [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
   - [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
   - [16340215-使用阿里云邮件推送服务发送验证码](https://blog.janking.cn/post/aliyun-email.html)
+  - [16340215-个人开发者实现实现充值和提现功能](https://blog.janking.cn/post/manual-pay.html)
+  - [16340215-使用NGINX反向代理部署Spring Boot应用](https://blog.janking.cn/post/nginx-springboot.html)
   - [15331419-IDEA Springboot的API设计：以跑腿API为例](https://blog.csdn.net/weixin_37763226/article/details/93616345)
   - [15331419-Springboot+MySQL的时间处理和Mybatis的@Param注解](https://blog.csdn.net/weixin_37763226/article/details/90747606)
 - X5 Final Report(个人报告)
@@ -66,7 +69,7 @@
 | 邵星语 | UI        |                       |
 | 叶梓豪 | 前端      |                       |
 | 苏依晴 | 前端      |                       |
-| 王建   | 后台      |                       |
+| 王建   | 后台      |   后端代码 + 服务器部署 |
 | 郑超强 | 后台      |                       |
 
 ### [时推表](https://shimo.im/docs/mriG1uve9ngy0rRp/)
@@ -80,11 +83,11 @@
 | 9    | 完成收件箱部分        | 设计问卷API         | 整理产品文档             |      |              |
 | 10   | 完成个人中心部分      | 完成问卷部分基本API |                          |      | 验收问卷业务 |
 | 11   | 完成前端收尾，等待api | 前后端对接          |                          |      |              |
-| 12   |                       |                     |                          |      | 验收业务2    |
-| 13   |                       |                     |                          |      |              |
-| 14   |                       |                     |                          |      | 验收业务3    |
-| 15   |                       |                     |                          |      |              |
-| 16   |                       |                     |                          |      | 验收业务4    |
-| 17   |                       |                     |                          |      |              |
-| 18   |                       |                     |                          |      | 最终产出     |
+| 12   |                       |       优化问卷部分              |                          |      | 验收业务2    |
+| 13   |                       |       开始着手跑腿功能              |                          |      |              |
+| 14   |                       |         优化工程架构          |                          |      | 验收业务3    |
+| 15   |                       |       添加邮件短信验证码功能              |                          |      |              |
+| 16   |                       |        完成跑腿功能             |                          |      | 验收业务4    |
+| 17   |                       |         优化跑腿功能            |                          |      |              |
+| 18   |                       |       添加充值支付功能              |                          |      | 最终产出     |
 
