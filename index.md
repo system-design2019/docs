@@ -40,7 +40,7 @@
   - 9.2 xx短视频
 - X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
 - X2 [kanban]
-- X3 [auditing-records]
+- X3 [auditing-records](https://system-design2019.github.io/files/auditing-records)(审计记录)
 - X4 Tech/Work Report(团队成果)
   - [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
   - [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
