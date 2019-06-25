@@ -5,7 +5,7 @@
 - 3、[Investigation](https://system-design2019.github.io/files/Investigation)(项目前期调研)
 - 4、[Vision](https://system-design2019.github.io/files/Vision)(项目愿景)
 - 5、[Product backlog](https://system-design2019.github.io/files/Product_Backlog)(产品特性)
-- 6、Requirement specification(需求规格说明书)
+- 6、[Requirement specification](https://system-design2019.github.io/files/SRS)(需求规格说明书)
   - 6.1 [Usecase Diagram and UML Activity Diagram](https://system-design2019.github.io/files/Usecase_total)(用例图，业务流程/多泳道图)
   - 6.2 [Use Cases](https://system-design2019.github.io/files/Usecases)(用例+活动图)
   - 6.3 [Domain Models](https://system-design2019.github.io/files/Domain)(领域模型)
