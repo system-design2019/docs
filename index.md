@@ -39,7 +39,7 @@
   - 9.1 xx短视频
   - 9.2 xx短视频
 - X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
-- X2 [kanban]
+- X2 [kanban](https://system-design2019.github.io/files/kanban)
 - X3 [auditing-records]
 - X4 Tech/Work Report(团队成果)
   - [16340215-CentOS升级或安装安装JDK 8](https://blog.janking.cn/post/centos-java8.html)
