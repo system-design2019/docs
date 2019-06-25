@@ -46,6 +46,7 @@
   - [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
   - [16340215-使用阿里云邮件推送服务发送验证码](https://blog.janking.cn/post/aliyun-email.html)
   - [15331419-IDEA Springboot的API设计：以跑腿API为例](https://blog.csdn.net/weixin_37763226/article/details/93616345)
+  - [15331419-Springboot+MySQL的时间处理和Mybatis的@Param注解](https://blog.csdn.net/weixin_37763226/article/details/90747606)
 - X5 Final Report(个人报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
   - [15331419-zcq](https://system-design2019.github.io/files/report/15331419_zcq_report)
