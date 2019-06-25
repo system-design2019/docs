@@ -41,8 +41,12 @@
 - X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
 - X2 [kanban]
 - X3 [auditing-records]
-- X4 [Tech/Work Report]
-- X5 [Final Report]
+- X4 Tech/Work Report
+  - [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
+  - [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
+  - [16340215-使用阿里云邮件推送服务发送验证码](https://blog.janking.cn/post/aliyun-email.html)
+- X5 Final Report
+  - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
