@@ -14,7 +14,7 @@
   - 6.5 [Supplementay Requirements](https://system-design2019.github.io/files/Requirements)(补充需求)
 - 7、Design
   - 7.1 [UI design]()(界面设计)
-  - 7.2 [Database design](https://system-design2019.github.io/files/Database)(数据库设计)
+  - 7.2 [Database design](https://system-design2019.github.io/files/Database_design)(数据库设计)
   - 7.3 [Interface API design](https://system-design2019.github.io/files/Interface-API-Design)(接口API设计)
       - 7.3.1 [API文档](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
   - 7.4 [Architecture design](https://system-design2019.github.io/files/Architechture)(架构设计)
@@ -48,6 +48,7 @@
   - [15331419-IDEA Springboot的API设计：以跑腿API为例](https://blog.csdn.net/weixin_37763226/article/details/93616345)
 - X5 Final Report(个人报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
+  - [15331419_zcq](https://system-design2019.github.io/files/report/15331419_zcq_report)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
