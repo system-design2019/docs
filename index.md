@@ -34,6 +34,7 @@
   - 8.4 部署说明
     - 8.4.1 [简单版](https://github.com/system-design2019/system-design/tree/master/backend#%E9%83%A8%E7%BD%B2%E7%8E%AF%E5%A2%83)
     - 8.4.2 [博客版](https://blog.janking.cn/post/aliyun-stu-server.html#%E9%83%A8%E7%BD%B2%20SpringBoot)
+  - 8.5 [测试文档]((https://system-design2019.github.io/files/Software-test-documentation)
 - 9、成品展示
   - 9.1 xx短视频
   - 9.2 xx短视频
