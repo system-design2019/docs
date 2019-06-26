@@ -50,9 +50,12 @@
   - [16340215-使用NGINX反向代理部署Spring Boot应用](https://blog.janking.cn/post/nginx-springboot.html)
   - [15331419-IDEA Springboot的API设计：以跑腿API为例](https://blog.csdn.net/weixin_37763226/article/details/93616345)
   - [15331419-Springboot+MySQL的时间处理和Mybatis的@Param注解](https://blog.csdn.net/weixin_37763226/article/details/90747606)
+  - [16340277-Github Desktop不完全应用指南](https://yezo13.github.io/2019/06/19/Personal/gitHubDesktop/)
+  - [16340277-VueX简单应用实践](https://yezo13.github.io/2019/06/17/vueLearning/vuexTrying/)
 - X5 Final Report(个人报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
   - [15331419-zcq](https://system-design2019.github.io/files/report/15331419_zcq_report)
+  - [16340277-yezo13](https://yezo13.github.io/2019/06/22/swsadHw/finalReport/)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
@@ -67,7 +70,7 @@
 | 王嘉楠 | 产品      |                       |
 | 孙鹤鸣 | 产品      |                       |
 | 邵星语 | UI        |                       |
-| 叶梓豪 | 前端      |                       |
+| 叶梓豪 | 前端      |    前端代码     |
 | 苏依晴 | 前端      |                       |
 | 王建   | 后台      |   后端代码 + 服务器部署 |
 | 郑超强 | 后台      |                       |
