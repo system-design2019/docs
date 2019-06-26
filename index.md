@@ -56,6 +56,7 @@
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
   - [15331419-zcq](https://system-design2019.github.io/files/report/15331419_zcq_report)
   - [16340277-yezo13](https://yezo13.github.io/2019/06/22/swsadHw/finalReport/)
+  - [16340214-wjnowen](https://system-design2019.github.io/files/report/16340214-wjnowen-report)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
