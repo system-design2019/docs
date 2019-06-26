@@ -43,18 +43,33 @@
 - X3 [auditing-records](https://system-design2019.github.io/files/auditing-records)
 - X4 Tech/Work Report(团队成果)
   - [16340215-CentOS升级或安装安装JDK 8](https://blog.janking.cn/post/centos-java8.html)
+  
   - [16340215-从申请阿里云学生服务器到部署 SpringBoot 项目](https://blog.janking.cn/post/aliyun-stu-server.html)
+  
   - [16340215-使用阿里云短信推送服务发送验证码](https://blog.janking.cn/post/aliyun-sms.html)
+  
   - [16340215-使用阿里云邮件推送服务发送验证码](https://blog.janking.cn/post/aliyun-email.html)
+  
   - [16340215-个人开发者实现实现充值和提现功能](https://blog.janking.cn/post/manual-pay.html)
+  
   - [16340215-使用NGINX反向代理部署Spring Boot应用](https://blog.janking.cn/post/nginx-springboot.html)
+  
   - [15331419-IDEA Springboot的API设计：以跑腿API为例](https://blog.csdn.net/weixin_37763226/article/details/93616345)
+  
   - [15331419-Springboot+MySQL的时间处理和Mybatis的@Param注解](https://blog.csdn.net/weixin_37763226/article/details/90747606)
+  
+  - [16340277-Github Desktop不完全应用指南](https://yezo13.github.io/2019/06/19/Personal/gitHubDesktop/) 
+
+  -  [16340277-VueX简单应用实践](https://yezo13.github.io/2019/06/17/vueLearning/vuexTrying/) 
+  
   - [16340192-以QQ为例解读尼尔森十大交互设计原则](https://songxiaotong.github.io/2019/06/26/production/#more)
+  
   - [16340192-超级简单易懂的Vuex入门使用指南](https://songxiaotong.github.io/2019/06/27/vuex/#more)
 - X5 Final Report(个人报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
   - [15331419-zcq](https://system-design2019.github.io/files/report/15331419_zcq_report)
+  - [16340277-yezo13](https://yezo13.github.io/2019/06/22/swsadHw/finalReport/)
+  - [16340214-wjnowen](https://system-design2019.github.io/files/report/16340214-wjnowen-report)
   - [16340192-Suata](https://system-design2019.github.io/files/report/16340192-Suata-个人报告)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
