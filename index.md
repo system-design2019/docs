@@ -50,13 +50,12 @@
   - [16340215-使用NGINX反向代理部署Spring Boot应用](https://blog.janking.cn/post/nginx-springboot.html)
   - [15331419-IDEA Springboot的API设计：以跑腿API为例](https://blog.csdn.net/weixin_37763226/article/details/93616345)
   - [15331419-Springboot+MySQL的时间处理和Mybatis的@Param注解](https://blog.csdn.net/weixin_37763226/article/details/90747606)
-  - [16340277-Github Desktop不完全应用指南](https://yezo13.github.io/2019/06/19/Personal/gitHubDesktop/)
-  - [16340277-VueX简单应用实践](https://yezo13.github.io/2019/06/17/vueLearning/vuexTrying/)
+  - [16340192-以QQ为例解读尼尔森十大交互设计原则](https://songxiaotong.github.io/2019/06/26/production/#more)
+  - [16340192-超级简单易懂的Vuex入门使用指南](https://songxiaotong.github.io/2019/06/27/vuex/#more)
 - X5 Final Report(个人报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
   - [15331419-zcq](https://system-design2019.github.io/files/report/15331419_zcq_report)
-  - [16340277-yezo13](https://yezo13.github.io/2019/06/22/swsadHw/finalReport/)
-  - [16340214-wjnowen](https://system-design2019.github.io/files/report/16340214-wjnowen-report)
+  - [16340192-Suata](https://system-design2019.github.io/files/report/16340192-Suata-个人报告)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
@@ -71,7 +70,7 @@
 | 王嘉楠 | 产品      |                       |
 | 孙鹤鸣 | 产品      |                       |
 | 邵星语 | UI        |                       |
-| 叶梓豪 | 前端      |    前端代码     |
+| 叶梓豪 | 前端      |                       |
 | 苏依晴 | 前端      |                       |
 | 王建   | 后台      |   后端代码 + 服务器部署 |
 | 郑超强 | 后台      |                       |
