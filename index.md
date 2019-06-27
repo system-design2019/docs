@@ -13,7 +13,7 @@
   - 6.5 [System Suquence Diagrams](https://system-design2019.github.io/files/Sequence)(功能模型)
   - 6.5 [Supplementay Requirements](https://system-design2019.github.io/files/Requirements)(补充需求)
 - 7、Design
-  - 7.1 [UI design]()(界面设计)
+  - 7.1 [UI design](https://system-design2019.github.io/files/UI_design)(界面设计)
   - 7.2 [Database design](https://system-design2019.github.io/files/Database_design)(数据库设计)
   - 7.3 [Interface API design](https://system-design2019.github.io/files/Interface-API-Design)(接口API设计)
       - 7.3.1 [API文档](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
@@ -68,6 +68,7 @@
   - [16340214-wjnowen](https://system-design2019.github.io/files/report/16340214-wjnowen-report)
   - [16340192-Suata](https://system-design2019.github.io/files/report/16340192-Suata-个人报告)
   - [16340197-sunheming123](https://system-design2019.github.io/files/report/16340197_heming_report)
+  - [16340188-mokomomo](https://system-design2019.github.io/files/report/16340188_moko-momo_report)
 - X6 
   - [api文档(简单)](https://shimo.im/docs/Lj9KH2HFtzgFCuJF/ )
   - [api文档(完整)](https://documenter.getpostman.com/view/7006450/S1LzynKU?version=latest)
