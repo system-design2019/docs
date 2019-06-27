@@ -31,7 +31,7 @@
       - 8.1.2.6 [工程结构规范](http://system-design2019.github.io/java-code-standard/gong-cheng-jie-gou)
   - 8.2 [REST API 设计规范](http://system-design2019.github.io/java-code-standard/qi-restful-she-ji-gui-fan)
   - 8.3 [BCE方法到应用程序框架映射指南](https://system-design2019.github.io/files/BCE)
-  - 8.4 部署说明
+  - 8.4 [部署说明](https://system-design2019.github.io/system-design/部署安装说明)
     - 8.4.1 [简单版](https://github.com/system-design2019/system-design/tree/master/backend#%E9%83%A8%E7%BD%B2%E7%8E%AF%E5%A2%83)
     - 8.4.2 [博客版](https://blog.janking.cn/post/aliyun-stu-server.html#%E9%83%A8%E7%BD%B2%20SpringBoot)
   - 8.5 [测试文档](https://system-design2019.github.io/files/Software-test-documentation)
