@@ -36,8 +36,13 @@
     - 8.4.2 [博客版](https://blog.janking.cn/post/aliyun-stu-server.html#%E9%83%A8%E7%BD%B2%20SpringBoot)
   - 8.5 [测试文档](https://system-design2019.github.io/files/Software-test-documentation)
 - 9、成品展示
-  - 9.1 xx短视频
-  - 9.2 xx短视频
+  - 9.1 [整体界面展示](https://www.bilibili.com/video/av57031202/?p=1)
+  - 9.2 [登录注册功能展示](https://www.bilibili.com/video/av57031202/?p=2)
+  - 9.3 [个人信息修改](https://www.bilibili.com/video/av57031202/?p=3)
+  - 9.4 [收件箱展示](https://www.bilibili.com/video/av57031202/?p=4)
+  - 9.5 [问卷功能展示](https://www.bilibili.com/video/av57031202/?p=5)
+  - 9.6 [跑腿功能展示](https://www.bilibili.com/video/av57031202/?p=6)
+  - 9.7 [充值提现操作](https://www.bilibili.com/video/av57031202/?p=7)
 - X1 [meeting records](https://system-design2019.github.io/files/Meeting_record)
 - X2 [kanban](https://system-design2019.github.io/files/kanban)
 - X3 [auditing-records](https://system-design2019.github.io/files/auditing-records)
