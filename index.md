@@ -57,6 +57,7 @@
   - [15331419-Springboot+MySQL的时间处理和Mybatis的@Param注解](https://blog.csdn.net/weixin_37763226/article/details/90747606)
   - [16340277-Github Desktop不完全应用指南](https://yezo13.github.io/2019/06/19/Personal/gitHubDesktop/) 
   - [16340277-VueX简单应用实践](https://yezo13.github.io/2019/06/17/vueLearning/vuexTrying/) 
+  - [16340277-vue项目打包部署实践](https://yezo13.github.io/2019/06/27/vueLearning/vueProject2githubPage/)
   - [16340192-以QQ为例解读尼尔森十大交互设计原则](https://songxiaotong.github.io/2019/06/26/production/#more)
   - [16340192-超级简单易懂的Vuex入门使用指南](https://songxiaotong.github.io/2019/06/27/vuex/#more)
   - [16340192-超级基础实用的TAPD使用指南](https://songxiaotong.github.io/2019/06/27/TAPD/)
@@ -88,7 +89,7 @@
 | 王嘉楠 | 产品      |                       |
 | 孙鹤鸣 | 产品      |                       |
 | 邵星语 | UI        |                       |
-| 叶梓豪 | 前端      |                       |
+| 叶梓豪 | 前端      |   前端代码 + 项目线上部署  |
 | 苏依晴 | 前端      |                       |
 | 王建   | 后台      |   后端代码 + 服务器部署 |
 | 郑超强 | 后台      |        后端代码 + API编写          |
