@@ -58,6 +58,8 @@
   - [16340192-超级易学易上手的AXURE入门使用指南](https://songxiaotong.github.io/2019/06/27/axure/)
   - [16340197-关于产品特性库的名词解释及编写](https://blog.csdn.net/woshishmshm/article/details/93790153)
   - [16340197-关于软件用户手册的编写思路](https://blog.csdn.net/woshishmshm/article/details/93793761)
+  - [16340214-如何编写测试文档](https://blog.csdn.net/wjnowen/article/details/93796067)
+  - [16340214-项目前期调研及其文档编写](https://blog.csdn.net/wjnowen/article/details/93890379)
 - X5 Final Report(个人/小组报告)
   - [小组报告](https://system-design2019.github.io/files/report/小组报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
