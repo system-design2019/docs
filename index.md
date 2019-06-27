@@ -65,6 +65,10 @@
   - [16340192-以QQ为例解读尼尔森十大交互设计原则](https://songxiaotong.github.io/2019/06/26/production/#more)
   
   - [16340192-超级简单易懂的Vuex入门使用指南](https://songxiaotong.github.io/2019/06/27/vuex/#more)
+  
+  - [16340197-关于产品特性库的名词解释及编写](https://blog.csdn.net/woshishmshm/article/details/93790153)
+  
+  - [16340197-关于软件用户手册的编写思路](https://blog.csdn.net/woshishmshm/article/details/93793761)
 - X5 Final Report(个人报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
   - [15331419-zcq](https://system-design2019.github.io/files/report/15331419_zcq_report)
