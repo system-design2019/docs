@@ -67,6 +67,8 @@
   - [16340197-关于软件用户手册的编写思路](https://blog.csdn.net/woshishmshm/article/details/93793761)
   - [16340214-如何编写测试文档](https://blog.csdn.net/wjnowen/article/details/93796067)
   - [16340214-项目前期调研及其文档编写](https://blog.csdn.net/wjnowen/article/details/93890379)
+  - [16340188-css排版小结](https://blog.csdn.net/mozi_momo/article/details/94002483)
+  - [16340188-UI设计的小技巧](https://blog.csdn.net/mozi_momo/article/details/94003393)
 - X5 Final Report(个人/小组报告)
   - [小组报告](https://system-design2019.github.io/files/report/小组报告)
   - [16340215-Janking](https://system-design2019.github.io/files/report-janking)
